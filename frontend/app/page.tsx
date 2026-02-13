@@ -473,7 +473,7 @@ export default function Home() {
                     lineHeight: 1.2,
                   }}
                 >
-                  Hi, I&apos;m Mohammed Mustafa Ibrahim
+                  Hi, I&apos;m Mohammed Mustafa
                   {/* Job title with gradient effect */}
                   <Typography
                     variant="h2"
@@ -482,9 +482,9 @@ export default function Home() {
                     color="primary"
                     display="block"
                     sx={{
-                      fontSize: { xs: '2.5rem', md: '3.5rem' },
+                      fontSize: { xs: '2.5rem', md: '2.5rem' },
                       lineHeight: 1.2,
-                      background: 'linear-gradient(to right, #3a86ff, #ff006e)',
+                      background: 'linear-gradient(to right, #3aff47, #ff006e)',
                       WebkitBackgroundClip: 'text',
                       WebkitTextFillColor: 'transparent',
                     }}
