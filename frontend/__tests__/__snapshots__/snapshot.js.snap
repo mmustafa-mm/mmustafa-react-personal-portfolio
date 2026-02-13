@@ -1,0 +1,1006 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+   
+  <div
+    class="MuiBox-root css-1qvsn7f"
+  >
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorTransparent MuiAppBar-positionSticky css-1hzdv02-MuiPaper-root-MuiAppBar-root"
+      style="--Paper-shadow: none;"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-5c1adp-MuiContainer-root"
+      >
+        <div
+          class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-yg49xf-MuiToolbar-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 css-jilo60-MuiTypography-root"
+          >
+            <span
+              class="MuiBox-root css-xps0tq"
+            >
+              John
+            </span>
+            Doe
+          </h6>
+          <div
+            class="MuiBox-root css-70qvj9"
+          >
+            <div
+              class="MuiBox-root css-1guk29"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-7l7vxk-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                About
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-7l7vxk-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Projects
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-7l7vxk-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Skills
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-7l7vxk-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Contact
+              </button>
+            </div>
+            <div
+              class="MuiBox-root css-1of4qp7"
+            >
+              <a
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-18zklar-MuiButtonBase-root-MuiIconButton-root"
+                href="https://github.com/johndoe"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 496 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-wh40dp-MuiButtonBase-root-MuiIconButton-root"
+                href="https://linkedin.com/in/johndoe"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 448 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
+                  />
+                </svg>
+              </a>
+              <a
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-141bvwp-MuiButtonBase-root-MuiIconButton-root"
+                href="https://twitter.com/johndoe"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 512 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="MuiBox-root css-1jdsw35"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeMedium css-mcxdug-MuiButtonBase-root-MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 512 512"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M264 480A232 232 0 0 1 32 248c0-94 54-178.28 137.61-214.67a16 16 0 0 1 21.06 21.06C181.07 76.43 176 104.66 176 136c0 110.28 89.72 200 200 200 31.34 0 59.57-5.07 81.61-14.67a16 16 0 0 1 21.06 21.06C442.28 426 358 480 264 480z"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div
+      class="MuiBox-root css-m0wz6f"
+    >
+      <div
+        class="MuiBox-root css-el55u1"
+      >
+        <div
+          class="MuiBox-root css-1snvd87"
+        />
+      </div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-15xfbvd-MuiContainer-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-6 css-mhuym5-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row css-1q79aqy-MuiGrid-root"
+          >
+            <h1
+              class="MuiTypography-root MuiTypography-h2 MuiTypography-gutterBottom css-1ayx9ke-MuiTypography-root"
+            >
+              Hi, I'm Mohammed Mustafa
+              <span
+                class="MuiTypography-root MuiTypography-h2 css-1o3jv78-MuiTypography-root"
+              >
+                Full Stack Developer
+              </span>
+            </h1>
+            <h6
+              class="MuiTypography-root MuiTypography-h6 css-1wfr0vd-MuiTypography-root"
+            >
+              I create sophisticated web applications that deliver exceptional user experiences with modern technologies and clean code.
+            </h6>
+            <div
+              class="MuiBox-root css-1jowtgm"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-i2l0wr-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Get in Touch
+              </button>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary css-1jud94t-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                View Work
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row css-1wcltfm-MuiGrid-root"
+          >
+            <div
+              class="MuiBox-root css-1756d3u"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <section
+      class="MuiBox-root css-jsg88u"
+      id="about"
+    >
+      <div
+        class="MuiBox-root css-zqzs67"
+      />
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd css-168saze-MuiContainer-root"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h3 css-tmp9au-MuiTypography-root"
+          data-aos="fade-up"
+        >
+          About Me
+        </h2>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-11emo9i-MuiDivider-root"
+        />
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-xe3bom-MuiPaper-root"
+          style="--Paper-shadow: none;"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 MuiTypography-paragraph css-ertimo-MuiTypography-root"
+          >
+            With over 5 years of experience in web development, I specialize in creating high-performance, responsive web applications using React, Next.js, and Node.js. My approach combines technical expertise with a strong focus on user experience and clean, maintainable code.
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 MuiTypography-paragraph css-ertimo-MuiTypography-root"
+          >
+            Previously, I worked at XYZ Technologies where I led the frontend development team, improving application performance by 40% and implementing CI/CD pipelines that reduced deployment time by 65%. I'm passionate about sharing knowledge and have contributed to several open-source projects.
+          </p>
+          <div
+            class="MuiBox-root css-qng7en"
+          >
+            <a
+              class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-qwji6n-MuiButtonBase-root-MuiButton-root"
+              href="/resume.pdf"
+              tabindex="0"
+              target="_blank"
+            >
+              Download Resume
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="MuiBox-root css-19kf32g"
+      id="projects"
+    >
+      <div
+        class="MuiBox-root css-s840r8"
+      />
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd css-168saze-MuiContainer-root"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h3 css-tmp9au-MuiTypography-root"
+        >
+          Featured Projects
+        </h2>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-11emo9i-MuiDivider-root"
+        />
+        <div
+          class="MuiBox-root css-6r2fzw"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 MuiCard-root css-hdodnz-MuiPaper-root-MuiCard-root"
+            style="--Paper-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);"
+          >
+            <div
+              class="MuiCardContent-root css-x4lmbv-MuiCardContent-root"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1m2r8s6-MuiTypography-root"
+              >
+                E-commerce Platform
+              </h3>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiTypography-paragraph css-gf0gu5-MuiTypography-root"
+              >
+                A full-stack e-commerce solution with React, Node.js, and Stripe integration that handles 10,000+ monthly transactions.
+              </p>
+              <div
+                class="MuiBox-root css-1ppihqm"
+              >
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  React
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  Node.js
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  MongoDB
+                </span>
+              </div>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1sqzecp-MuiCardActions-root"
+            >
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://github.com/johndoe/ecommerce"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <span
+                  class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeSmall css-1in3o51-MuiButton-startIcon"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 496 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+                    />
+                  </svg>
+                </span>
+                Code
+              </a>
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://ecommerce-demo.example.com"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                Live Demo
+              </a>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 MuiCard-root css-hdodnz-MuiPaper-root-MuiCard-root"
+            style="--Paper-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);"
+          >
+            <div
+              class="MuiCardContent-root css-x4lmbv-MuiCardContent-root"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1m2r8s6-MuiTypography-root"
+              >
+                SaaS Analytics Dashboard
+              </h3>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiTypography-paragraph css-gf0gu5-MuiTypography-root"
+              >
+                An analytics dashboard for SaaS businesses with real-time data visualization and custom reporting features.
+              </p>
+              <div
+                class="MuiBox-root css-1ppihqm"
+              >
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  Next.js
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  TypeScript
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  D3.js
+                </span>
+              </div>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1sqzecp-MuiCardActions-root"
+            >
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://github.com/johndoe/saas-dashboard"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <span
+                  class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeSmall css-1in3o51-MuiButton-startIcon"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 496 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+                    />
+                  </svg>
+                </span>
+                Code
+              </a>
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://saas-dashboard.example.com"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                Live Demo
+              </a>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 MuiCard-root css-hdodnz-MuiPaper-root-MuiCard-root"
+            style="--Paper-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);"
+          >
+            <div
+              class="MuiCardContent-root css-x4lmbv-MuiCardContent-root"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1m2r8s6-MuiTypography-root"
+              >
+                AI Chat Application
+              </h3>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiTypography-paragraph css-gf0gu5-MuiTypography-root"
+              >
+                A real-time chat application with AI-powered responses and language translation supporting 20+ languages.
+              </p>
+              <div
+                class="MuiBox-root css-1ppihqm"
+              >
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  React
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  Socket.io
+                </span>
+                <span
+                  class="MuiBox-root css-vfnhe3"
+                >
+                  OpenAI API
+                </span>
+              </div>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing css-1sqzecp-MuiCardActions-root"
+            >
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://github.com/johndoe/ai-chat"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                <span
+                  class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeSmall css-1in3o51-MuiButton-startIcon"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 496 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+                    />
+                  </svg>
+                </span>
+                Code
+              </a>
+              <a
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary css-tfmr9n-MuiButtonBase-root-MuiButton-root"
+                href="https://ai-chat.example.com"
+                rel="noopener noreferrer"
+                tabindex="0"
+                target="_blank"
+              >
+                Live Demo
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="MuiBox-root css-jsg88u"
+      id="skills"
+    >
+      <div
+        class="MuiBox-root css-welttf"
+      />
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd css-168saze-MuiContainer-root"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h3 css-tmp9au-MuiTypography-root"
+        >
+          Technical Skills
+        </h2>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-11emo9i-MuiDivider-root"
+        />
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 css-xe3bom-MuiPaper-root"
+          style="--Paper-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-6 css-12iobic-MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row css-17fpwt7-MuiGrid-root"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1ifh5ig-MuiTypography-root"
+              >
+                Frontend Development
+              </h3>
+              <div
+                class="MuiBox-root css-10ib5jr"
+              >
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      React / Next.js
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      TypeScript
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      UI/UX Design
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-direction-xs-row css-17fpwt7-MuiGrid-root"
+            >
+              <h3
+                class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-lhq1ox-MuiTypography-root"
+              >
+                Backend Development
+              </h3>
+              <div
+                class="MuiBox-root css-10ib5jr"
+              >
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      Node.js / Express
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      Database Design
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root css-1yjvs5a"
+                >
+                  <div
+                    class="MuiBox-root css-1opjm7l"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body1 css-lk017b-MuiTypography-root"
+                    >
+                      GraphQL
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root css-1hnm6b6"
+          >
+            <h3
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1y27hhv-MuiTypography-root"
+            >
+              Other Technologies
+            </h3>
+            <div
+              class="MuiBox-root css-w4ns3s"
+            >
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Docker
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                AWS
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                CI/CD
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Jest
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Git
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Redux
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Firebase
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Webpack
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                TailwindCSS
+              </span>
+              <span
+                class="MuiBox-root css-1ourdf6"
+              >
+                Figma
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="MuiBox-root css-19kf32g"
+      id="contact"
+    >
+      <div
+        class="MuiBox-root css-1q9fzio"
+      />
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd css-168saze-MuiContainer-root"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h3 css-tmp9au-MuiTypography-root"
+        >
+          Get In Touch
+        </h2>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-11emo9i-MuiDivider-root"
+        />
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row MuiGrid-spacing-xs-4 css-kqg16c-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row css-17fpwt7-MuiGrid-root"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-paragraph css-11esxab-MuiTypography-root"
+            >
+              I'm currently looking for new opportunities and freelance projects. If you'd like to discuss a potential collaboration or just want to say hi, feel free to reach out!
+            </p>
+            <div
+              class="MuiBox-root css-yd8sa2"
+            >
+              <a
+                class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1gh0me-MuiTypography-root-MuiLink-root"
+                href="mailto:john.doe@example.com"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="none"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  style="margin-right: 0.5rem;"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                john.doe@example.com
+              </a>
+              <div
+                class="MuiBox-root css-10egq61"
+              >
+                <a
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-1xjg5xd-MuiButtonBase-root-MuiIconButton-root"
+                  href="https://github.com/johndoe"
+                  rel="noopener noreferrer"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 496 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"
+                    />
+                  </svg>
+                </a>
+                <a
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-19ev3o1-MuiButtonBase-root-MuiIconButton-root"
+                  href="https://linkedin.com/in/johndoe"
+                  rel="noopener noreferrer"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 448 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
+                    />
+                  </svg>
+                </a>
+                <a
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeSmall css-8ph87i-MuiButtonBase-root-MuiIconButton-root"
+                  href="https://twitter.com/johndoe"
+                  rel="noopener noreferrer"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <svg
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 512 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-direction-xs-row css-17fpwt7-MuiGrid-root"
+          >
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 css-1fm45rr-MuiPaper-root"
+              style="--Paper-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);"
+            >
+              <form
+                class="MuiBox-root css-clj2jm"
+              >
+                <div
+                  class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-cmpglg-MuiFormControl-root-MuiTextField-root"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-169oelz-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink="false"
+                    for="name"
+                    id="name-label"
+                  >
+                    Name
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl css-1s7oxau-MuiInputBase-root-MuiOutlinedInput-root"
+                  >
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input MuiOutlinedInput-input css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="name"
+                      placeholder="Your name"
+                      type="text"
+                    />
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiOutlinedInput-notchedOutline css-18p5xg2-MuiNotchedOutlined-root-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        class="css-1n64csd-MuiNotchedOutlined-root"
+                      >
+                        <span>
+                          Name
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+                <div
+                  class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-cmpglg-MuiFormControl-root-MuiTextField-root"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-169oelz-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink="false"
+                    for="email"
+                    id="email-label"
+                  >
+                    Email
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl css-1s7oxau-MuiInputBase-root-MuiOutlinedInput-root"
+                  >
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input MuiOutlinedInput-input css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="email"
+                      placeholder="your.email@example.com"
+                      type="email"
+                    />
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiOutlinedInput-notchedOutline css-18p5xg2-MuiNotchedOutlined-root-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        class="css-1n64csd-MuiNotchedOutlined-root"
+                      >
+                        <span>
+                          Email
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+                <div
+                  class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-cmpglg-MuiFormControl-root-MuiTextField-root"
+                >
+                  <label
+                    class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-169oelz-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink="false"
+                    for="message"
+                    id="message-label"
+                  >
+                    Message
+                  </label>
+                  <div
+                    class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-multiline css-p0bvas-MuiInputBase-root-MuiOutlinedInput-root"
+                  >
+                    <textarea
+                      aria-invalid="false"
+                      class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline css-w4nesw-MuiInputBase-input-MuiOutlinedInput-input"
+                      id="message"
+                      placeholder="Your message..."
+                      rows="4"
+                      style="height: 0px; overflow: hidden;"
+                    />
+                    <textarea
+                      aria-hidden="true"
+                      class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline css-w4nesw-MuiInputBase-input-MuiOutlinedInput-input"
+                      readonly=""
+                      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding-top: 0px; padding-bottom: 0px; width: 100%;"
+                      tabindex="-1"
+                    />
+                    <fieldset
+                      aria-hidden="true"
+                      class="MuiOutlinedInput-notchedOutline css-18p5xg2-MuiNotchedOutlined-root-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        class="css-1n64csd-MuiNotchedOutlined-root"
+                      >
+                        <span>
+                          Message
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth css-7cbqzs-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="submit"
+                >
+                  Send Message
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer
+      class="MuiBox-root css-gtmxxe"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-5c1adp-MuiContainer-root"
+      >
+        <div
+          class="MuiBox-root css-1us6v5o"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2 css-1j9gp8r-MuiTypography-root"
+          >
+            © 
+            2026
+             John Doe. All rights reserved.
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body2 css-o3h0ak-MuiTypography-root"
+          >
+            Designed & Built with ❤️ using React & Material UI
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
